@@ -21,4 +21,12 @@ I've done my best to streamline this process for you by providing all the links 
 </p>
 
 # Playtest Form
-<p>Would you like to have a part in shaping the next version of <em>Pile Of Corpses</em>? Do the game a favor and respond using the <strong>Playtest Form</strong> found here: <a href="http://goo.gl/forms/evl0Q5ohrU" target="_BLANK">Playtest Form</a>. Your response will be completely anonymous so feel free to tell me exactly what you think!
+<p>Would you like to have a part in shaping the next version of <em>Pile Of Corpses</em>? Do the game a favor and respond using the <strong>Playtest Form</strong> found here: 
+<ul>
+    <li>
+      <a href="http://goo.gl/forms/evl0Q5ohrU" target="_BLANK">Current Playtest Form</a>
+    </li>
+  </ul>
+
+
+Your response will be completely anonymous so feel free to tell me exactly what you think! Thank you for helping me out in my adventures in game design!</p>
