@@ -34,8 +34,14 @@ I've done my best to streamline this process for you by providing all the links 
 </p>
 
 # Changelog
-02/16/2015
-* Added keyboard support
-  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated
-* Updated controls menu to reflect new keyboard controls
-  |----New art assets that dynamically change if there is a gamepad plugged in or not.
+<ul>
+  <li>02/16/2015</li>
+    <ul>
+      <li>Added keyboard support.
+        <br />  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated.
+      </li>
+      <li>Updated controls menu to reflect new keyboard controls.
+        <br />  |----New art assets that dynamically change if there is a gamepad plugged in or not.
+      </li
+    </ul>
+</ul>
