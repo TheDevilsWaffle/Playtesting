@@ -35,13 +35,37 @@ I've done my best to streamline this process for you by providing all the links 
 
 # Changelog
 <ul>
-  <li>02/16/2015</li>
-    <ul>
-      <li>Added keyboard support.
-        <br />  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated.
-      </li>
-      <li>Updated controls menu to reflect new keyboard controls.
-        <br />  |----New art assets that dynamically change if there is a gamepad plugged in or not.
-      </li
-    </ul>
+  	<li>02/16/2015</li>
+	    <ul>
+	      	<li>Added keyboard support.
+	        	<br />  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated.
+	      	</li>
+	      	<li>Updated controls menu to reflect new keyboard controls.
+	        	<br />  |----New art assets that dynamically change if there is a gamepad plugged in or not.
+	      	</li>
+	    </ul>
+	</li>
+
+	<li>03/07/2015</li>
+	    <ul>
+	    	<li>Bodies decay over time.
+	        	<br />  |----corpses now start off fresh, rot, and then decay to a point where they fill up the arena and cannot be interacted with.
+	      	</li>
+	   		<li>Fixed minor collision issues with the tilemap
+	        	<br />  |----Used to be able to fling corpses through the tilemap on accident.
+	      	</li>
+	      	<li>Planting your shovel on a corpse now highlights this corpse so that the player can easier see which corpse they are targeting.
+	        	<br />  |----Not completely perfect, but it works.
+	      	</li>
+	      	<li>Changed physics for bodies.
+	        	<br />  |----you can now collide with bodies and they have a bit more heft now.
+	      	</li>
+	      	<li>Bodies now drop slower.
+	        	<br />  |----Bodies previously dropped every 1 - 5 seconds, but now it is 7 - 10 seconds.
+	      	</li>
+	      	<li>Bodies drop upon points being scored.
+	        	<br />  |----for every 1000 points you score, more bodies drop.
+	      	</li>
+	    </ul>
+	</li>
 </ul>
