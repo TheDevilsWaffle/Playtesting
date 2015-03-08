@@ -35,18 +35,7 @@ I've done my best to streamline this process for you by providing all the links 
 
 # Changelog
 <ul>
-  	<li>02/16/2015</li>
-	    <ul>
-	      	<li>Added keyboard support.
-	        	<br />  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated.
-	      	</li>
-	      	<li>Updated controls menu to reflect new keyboard controls.
-	        	<br />  |----New art assets that dynamically change if there is a gamepad plugged in or not.
-	      	</li>
-	    </ul>
-	</li>
-
-	<li>03/07/2015</li>
+	<li>VERSION 05 - 03/07/2015</li>
 	    <ul>
 	    	<li>Bodies decay over time.
 	        	<br />  |----corpses now start off fresh, rot, and then decay to a point where they fill up the arena and cannot be interacted with. Bodies will change appearence to a skeleton and flash red/purple to indicate you are losing time to score points with this corpse.
@@ -80,6 +69,16 @@ I've done my best to streamline this process for you by providing all the links 
 	      	</li>
 	      	<li>Fixed major bug with corpses transitioning to unmovable piles while player was targeting this corpse causing a game crash.
 	        	<br />  |----game will now kick you out of shovel plant mode, destroy the highlight, and remove the press X graphic if it exists.
+	      	</li>
+	    </ul>
+	</li>
+  	<li>VERSION 04 - 02/16/2015</li>
+	    <ul>
+	      	<li>Added keyboard support.
+	        	<br />  |----Not ideal, but it works. Angle of flinging is confined to a set angle set to make things less complicated.
+	      	</li>
+	      	<li>Updated controls menu to reflect new keyboard controls.
+	        	<br />  |----New art assets that dynamically change if there is a gamepad plugged in or not.
 	      	</li>
 	    </ul>
 	</li>
