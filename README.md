@@ -49,9 +49,9 @@ I've done my best to streamline this process for you by providing all the links 
 	<li>03/07/2015</li>
 	    <ul>
 	    	<li>Bodies decay over time.
-	        	<br />  |----corpses now start off fresh, rot, and then decay to a point where they fill up the arena and cannot be interacted with.
+	        	<br />  |----corpses now start off fresh, rot, and then decay to a point where they fill up the arena and cannot be interacted with. Bodies will change appearence to a skeleton and flash red/purple to indicate you are losing time to score points with this corpse.
 	      	</li>
-	   		<li>Fixed minor collision issues with the tilemap
+	   		<li>Fixed minor collision issues with the tilemap.
 	        	<br />  |----Used to be able to fling corpses through the tilemap on accident.
 	      	</li>
 	      	<li>Planting your shovel on a corpse now highlights this corpse so that the player can easier see which corpse they are targeting.
@@ -65,6 +65,21 @@ I've done my best to streamline this process for you by providing all the links 
 	      	</li>
 	      	<li>Bodies drop upon points being scored.
 	        	<br />  |----for every 1000 points you score, more bodies drop.
+	      	</li>
+	      	<li>Minor adjustment to positioning of submenus and gameover text.
+	        	<br />  |----They used to clip before.
+	      	</li>
+	      	<li>Minor adjustment to positioning of game camera.
+	        	<br />  |----I just didn't like it.
+	      	</li>
+	      	<li>Minor adjustment to positioning of submenus and gameover text.
+	        	<br />  |----They used to clip before.
+	      	</li>
+	      	<li>Player now jumps slightly higher
+	        	<br />  |----20% higher, to be exact.
+	      	</li>
+	      	<li>Fixed major bug with corpses transitioning to unmovable piles while player was targeting this corpse causing a game crash.
+	        	<br />  |----game will now kick you out of shovel plant mode, destroy the highlight, and remove the press X graphic if it exists.
 	      	</li>
 	    </ul>
 	</li>
