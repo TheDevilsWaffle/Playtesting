@@ -1,5 +1,5 @@
 # Welcome!
-<p>This repo is soley for approved playtesters of the games I'm currently making. If you are here it means that you have been chosen as a responsible playtester for one of my games. From this website you can do the following:
+<p>This repo is soley for approved playtesters of the games I'm currently making. If you are here it means that you have been chosen as a responsible playtester for one of my games. Please remember to leave feedback, any kind of feedback, even if it is negative. It can only help me make better games or make my current games better. From this website you can do the following:
   <ul>
     <li>Download one (or more) of my games</li>
     <li>Have some fun playing free video games</li>
@@ -7,7 +7,7 @@
   </ul>
 I've done my best to streamline this process for you by providing all the links below, but do note:
   <h4>DigiPen Copyright Notice</h4>
-  <p>You are not to distribute the games I've made available to <strong>ANYONE</strong>. These games are copyright of DigiPen and programmed using their proprietary Zero Engine.</p>
+  <p>You are not to distribute the games I've made available to <strong>ANYONE</strong>. These games are copyright of DigiPen and programmed using their proprietary Zero Engine. Basically, you can play these games on your own, but do not share these games or attempt to sell them (but honestly, why would you?).</p>
 </p>
 
 
