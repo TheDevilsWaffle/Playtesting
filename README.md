@@ -12,7 +12,15 @@ I've done my best to streamline this process for you by providing all the links 
 
 
 # Downloading
-<p>To download the current demo of the game with the link below: 
+<p>To download the current demo of <strong>Up and Down</strong> use the link below: 
+  <ul>
+    <li>
+      <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-UpAndDown-v01.exe?raw=true">DEMO Up and Down v01</a>
+    </li>
+  </ul>
+  <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad HIGHLY RECOMMENDED</strong>.</p>
+</p>
+<p>To download the current demo of <strong>Pile of Corpses</strong> use the link below: 
   <ul>
     <li>
       <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-PileOfCorpses-v05.exe?raw=true">DEMO Pile of Corpses v05</a>
@@ -35,7 +43,11 @@ I've done my best to streamline this process for you by providing all the links 
 
 # Changelog
 <ul>
-	<li>VERSION 05 - 03/07/2015</li>
+	<li>UP AND DOWN - VERSION 01 - 03/20/2015</li>
+		<ul>
+			<li>INITIAL RELEASE</li>
+		</ul>
+	<li>PILE OF CORPSES - VERSION 05 - 03/07/2015</li>
 	    <ul>
 	    	<li>Bodies decay over time.
 	        	<br />  |----corpses now start off fresh, rot, and then decay to a point where they fill up the arena and cannot be interacted with. Bodies will change appearence to a skeleton and flash red/purple to indicate you are losing time to score points with this corpse.
