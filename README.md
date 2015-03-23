@@ -15,7 +15,7 @@ I've done my best to streamline this process for you by providing all the links 
 <p>To download the current demo of <strong>Up and Down</strong> use the link below: 
   <ul>
     <li>
-      <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-UpAndDown-v01.exe?raw=true">DEMO Up and Down v01</a>
+      <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-UpAndDown-v01.exe?raw=true"><img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/up-and-down-start-screen.png?raw=true"</a>
     </li>
   </ul>
   <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad HIGHLY RECOMMENDED</strong>.</p>
