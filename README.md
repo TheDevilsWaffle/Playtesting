@@ -13,19 +13,11 @@ I've done my best to streamline this process for you by providing all the links 
 
 # Downloading
 <p>To download the current demo of <strong>Up and Down</strong> use the link below: 
-  <ul>
-    <li>
-      <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-UpAndDown-v01.exe?raw=true"><img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/up-and-down-start-screen.png?raw=true"</a>
-    </li>
-  </ul>
+      <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-UpAndDown-v01.exe?raw=true"><img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/up-and-down-start-screen.png?raw=true" title ="Up+Down Demo v01" alt="Up+Down Demo v01" /></a>
   <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad HIGHLY RECOMMENDED</strong>.</p>
 </p>
 <p>To download the current demo of <strong>Pile of Corpses</strong> use the link below: 
-  <ul>
-    <li>
       <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Demo-PileOfCorpses-v05.exe?raw=true">DEMO Pile of Corpses v05</a>
-    </li>
-  </ul>
   <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad HIGHLY RECOMMENDED</strong>.</p>
 </p>
 
