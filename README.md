@@ -47,10 +47,17 @@
 
 # Changelog
 <ul>
-	<li>UP AND DOWN - VERSION 01 - 03/20/2015</li>
+	<li>UP AND DOWN - VERSION 01.1 - 03/24/2015</li>
+		<ul>
+			<li>Fixed gravity not reseting on blue if playing multiplayer.</li>
+			<li>Fixed blue jump button not beign changed to "X" from "A" if multiplayer is detected.</li>
+		</ul>
+	</li>
+	<li>UP + DOWN - VERSION 01 - 03/20/2015</li>
 		<ul>
 			<li>Initial Release</li>
 		</ul>
+	</li>
 	<li>PILE OF CORPSES - VERSION 05 - 03/07/2015</li>
 	    <ul>
 	    	<li>Bodies decay over time.
