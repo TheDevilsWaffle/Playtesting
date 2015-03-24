@@ -8,9 +8,8 @@
   <h4>DigiPen Copyright Notice</h4>
   <p>You are not to distribute the games I've made available to <strong>ANYONE</strong>. These games are copyright of DigiPen and programmed using their proprietary Zero Engine. Basically, you can play these games on your own, but do not share these games or attempt to sell them (honestly, why would you?).</p>
 </p>
-
-<h2>Games</h2>
 <a href="#" name="games"></a>
+<h2>Games</h2>
 <p>
 	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v01.exe?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v01" alt="Up+Down Demo v01" />
@@ -29,9 +28,8 @@
 </p>
 <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad is HIGHLY RECOMMENDED</strong>.</p>
 </p>
-
-<h2>Playtest Forms</h2>
 <a href="#" name="playtest-form"></a>
+<h2>Playtest Forms</h2>
 <p>Would you like to have a part in improving my games? Please do me a favor and respond to me after playing my games by using the google forms below (do not worry, your response will be annonymous and I will not know who you are).
 <p>
 	<a href="http://goo.gl/forms/QECLPkEVu2">
