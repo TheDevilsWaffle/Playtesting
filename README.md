@@ -15,13 +15,17 @@
 	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v01.exe?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v01" alt="Up+Down Demo v01" />
 	</a>
-	<sup>A puzzle platformer that is both single and multiplayer</sup>
+	<center>
+		<sup>puzzle platformer that is both single and multiplayer</sup>
+	</center>
 </p>
 <p> 
     <a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-pile-of-corpses/Demo-PileOfCorpses-v05.exe?raw=true">
     	<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/pile-of-corpses-promo-image-2.png?raw=true" alt="Pile of Corpses v05" title="Pile of Corpses v05" />
     </a>
-	<sup>A casual-arcade game where you fling falling corpses into coffins for points!</sup>
+	<center>
+		<sup>casual-arcade game where you fling falling corpses into coffins for points!</sup>
+	</center>
 </p>
 <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad is HIGHLY RECOMMENDED</strong>.</p>
 </p>
@@ -30,12 +34,12 @@
 <a href="#" name="playtest-form"></a>
 <p>Would you like to have a part in improving my games? Please do me a favor and respond to me after playing my games by using the google forms below (do not worry, your response will be annonymous and I will not know who you are).
 <p>
-	<a href="">
+	<a href="http://goo.gl/forms/QECLPkEVu2">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/upAndDown-PlaytestForms.png?raw=true" title ="Up+Down Playtest Form" alt="Up+Down Demo Playtest Form" />
 	</a>
 </p>
 <p> 
-    <a href="">
+    <a href="http://goo.gl/forms/jUv2YdxIr3">
     	<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/PileOfCorpses-PlaytestForms.png?raw=true" alt="Pile of Corpses Playtest Form" title="Pile of Corpses Playtest Form" />
 	</a>
 </p>
