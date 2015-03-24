@@ -1,5 +1,5 @@
 <h2>Help Me Make Better Games!</h2>
-<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/battle-poster" alt="battle-poster" />
+<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/battle-poster.png" alt="battle-poster" />
 <p>If you are here it means that you have been chosen as a responsible playtester for one of my games. <strong>Please remember to fill out a <a href="#playtest-form">playtest form</a></strong> after playing one or more of my games. It can only help me make better games or make my current games better. From this repo you can do the following:
   <ul>
     <li><a href="#games">Play free games!</a></li>
