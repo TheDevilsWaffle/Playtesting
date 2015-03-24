@@ -16,7 +16,7 @@
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v01" alt="Up+Down Demo v01" />
 	</a>
 	<center>
-		<sup>puzzle platformer that is both single and multiplayer</sup>
+		<sup>puzzle platformer that is both single and multiplayer. Primarily meant to be played with a gamepad, but a keyboard will work with the A,W,D, LEFT, UP, and DOWN keys.</sup>
 	</center>
 </p>
 <p> 
@@ -24,7 +24,7 @@
     	<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/pile-of-corpses-promo-image-2.png?raw=true" alt="Pile of Corpses v05" title="Pile of Corpses v05" />
     </a>
 	<center>
-		<sup>casual-arcade game where you fling falling corpses into coffins for points!</sup>
+		<sup>casual-arcade game where you fling falling corpses into coffins for points! Will work well with both the gamepad or a keyboard.</sup>
 	</center>
 </p>
 <p><strong>Special Note:</strong> All games run only on a <em>Windows environment (XP/Vista/7/8)</em> and you will need either a <em>keyboard</em> or <em>USB XBox gamepad</em> plugged into your computer in order to play. <strong>XBox gamepad is HIGHLY RECOMMENDED</strong>.</p>
