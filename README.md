@@ -12,8 +12,8 @@
 <a href="#" name="games"></a>
 <h2>Games</h2>
 <p>
-	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v01.exe?raw=true">
-		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v01" alt="Up+Down Demo v01" />
+	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v02.exe?raw=true">
+		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v02" alt="Up+Down Demo v02" />
 	</a>
 	<center>
 		<sup>puzzle platformer that is both single and multiplayer. Primarily meant to be played with a gamepad, but a keyboard will work with the A,W,D, LEFT, UP, and DOWN keys.</sup>
@@ -47,6 +47,24 @@
 
 # Changelog
 <ul>
+	<li>UP AND DOWN - VERSION 02.0 - 04/19/2015</li>
+		<ul>
+			<li>Added 3 new levels</li>
+			<li>Added Bounce Pads and Extendable Bridges</li>
+			<li>Updated Menu System with new animations</li>
+			<li>Added Level Select to the Menu System</li>
+			<li>Added the ability to save data on local machines</li>
+			<li>Added lives system</li>
+			<li>Added collectable cubes</li>
+			<li>Added level timers to each level</li>
+			<li>Added in-game HUD (tracks cubes collected, lives, and time on each level)</li>
+			<li>Added level recap system to breakdown cubes collected, time the level was beaten in, and also the best time ever achieved on a level.</li>
+			<li>Added new sounds/music</li>
+			<li>Added dynamic music that will play differently based on how many cubes are collected.</li>
+			<li>Added gameover level for losing the game</li>
+			<li>Added gameover level for winning the game (overall game stats shown).</li>
+		</ul>
+	</li>
 	<li>UP AND DOWN - VERSION 01.1 - 03/24/2015</li>
 		<ul>
 			<li>Fixed gravity not reseting on blue if playing multiplayer.</li>
