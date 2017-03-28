@@ -12,6 +12,14 @@
 <a href="#" name="games"></a>
 <h2>Games</h2>
 <p>
+	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/super_space_race_v04.zip?raw=true">
+		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/ssr_logo.png?raw=true" title ="Super Space Race" alt="Super Space Race" />
+	</a>
+	<center>
+		<sup>Single player space flight/combat simulator that is playable with an XBox gamepad.</sup>
+	</center>
+</p>
+<p>
 	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v02.exe?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v02" alt="Up+Down Demo v02" />
 	</a>
@@ -47,6 +55,11 @@
 
 # Changelog
 <ul>
+	<li>SUPER SPACE RACE - VERSION 04.0 - 03/28/2017</li>
+		<ul>
+			<li>Initial upload of the game</li>
+		</ul>
+	</li>
 	<li>UP AND DOWN - VERSION 02.0 - 04/19/2015</li>
 		<ul>
 			<li>Added 3 new levels</li>
