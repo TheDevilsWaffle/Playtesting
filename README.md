@@ -20,7 +20,7 @@
 	</center>
 </p>
 <p>
-	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/demo-up-and-down/Demo-UpAndDown-v02.exe?raw=true">
+	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Up%20And%20Down%20Demo.exe?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/up-and-down-promo-image-2.png?raw=true" title ="Up+Down Demo v02" alt="Up+Down Demo v02" />
 	</a>
 	<center>
