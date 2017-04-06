@@ -12,7 +12,7 @@
 <a href="#" name="games"></a>
 <h2>Games</h2>
 <p>
-	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/super_space_race_v04.zip?raw=true">
+	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Super%20Space%20Race%20(Prototype%20v04).zip?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/ssr_logo.png?raw=true" title ="Super Space Race" alt="Super Space Race" />
 	</a>
 	<center>
