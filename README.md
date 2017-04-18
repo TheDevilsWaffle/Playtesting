@@ -12,7 +12,7 @@
 <a href="#" name="games"></a>
 <h2>Games</h2>
 <p>
-	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/Super%20Space%20Race%20(Prototype%20v04).zip?raw=true">
+	<a href="https://github.com/TheDevilsWaffle/Playtesting/blob/master/super_space_race_v05.zip?raw=true">
 		<img src="https://github.com/TheDevilsWaffle/Playtesting/blob/master/promo-images/ssr_logo.png?raw=true" title ="Super Space Race" alt="Super Space Race" />
 	</a>
 	<center>
@@ -55,6 +55,60 @@
 
 # Changelog
 <ul>
+<li>SUPER SPACE RACE - VERSION 05 - 04/18/2017
+	<ul>
+		<li>Menu System:</li>
+		<ul>
+		<li>- Added controls and credits menus</li>
+		</ul>
+	<li>Controls:
+	<ul>
+		<li>- boost to RB (previously was R3)</li>
+		<li>- brake to LB (previously was RB)</li>
+		<li>- added multiple sensitivities to flight so it is hard to make sharp turns when you are going really fast</li>
+		<li>- throttle speeds are a lot slower now</li>
+		</ul>
+	</li>
+	<li>
+	HUD:
+	<ul>
+		<li>- lasers and shields rotated (mimics menus), a little larger, and out to the sides more.</li>
+		<li>- shader to help reticle UI stick out on top of in-game objects</li>
+		<li>- lasers and shields do not animate their divider lines any more</li>
+		<li>- throttle has been moved to the bottom center of the screen</li>
+		</ul>
+		</li>
+		<li>
+	Game:
+	<ul>
+		<li>- lasers move faster</li>
+		<li>- lasers explode upon impact</li>
+		<li>- shield bubble is gone, now the shield is a mesh of the ship</li>
+		<li>- updated shader for both normal shields and danger (no shield)</li>
+		<li>- tweaked camera to appear further back</li>
+		<li>- throttle based particle system to show speed better</li>
+		<li>- throttle based chromatic abberation</li>
+		<li>- throttle based vignetting</li>
+		<li>- throttle based depth of field</li>
+		<li>- throttle based gamepad rumble</li>
+		<li>- laser shot rumble</li>
+		<li>- initial jolt when changing speed states (brake->cruise->max->boost)</li>
+		<li>- rumble only on throttle being held</li>
+		<li>- slow camera bobbing</li>
+		<li>- pivot point of ship is now on the nose of the ship (previously was center of the model</li>
+		</ul>
+		</li>
+		<li>
+	SFX:
+	<ul>
+		<li>- laser explosion sound effect</li>
+		<li>- many new engine noises based on throttle</li>
+		<li>- warning noises when lasers/shields are drained</li>
+		</ul>
+		</li>
+		</li>
+	</ul>
+</li>
 	<li>SUPER SPACE RACE - VERSION 04.0 - 03/28/2017</li>
 		<ul>
 			<li>Initial upload of the game</li>
